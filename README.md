@@ -1,0 +1,2 @@
+# RandomColorGenerator
+JS project
